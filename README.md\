@@ -1,2 +1,11 @@
-# Inventory-Management-System
-An inventory rental system built with apache netbeans and java.Based on availabily of items in the stock the user can ask for rental.
+Inventory Rental System
+
+This is an inventory rental system built with Apache NetBeans and Java. It allows users to rent items from a stock, based on availability.
+
+Installation
+
+    Download and install Apache NetBeans.
+    Clone this repository to your computer.
+    Open the project in NetBeans.
+    Right-click on the project node and select "Run".
+
